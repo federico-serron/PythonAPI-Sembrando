@@ -7,7 +7,7 @@ API Python based
 
 1 - Clone the repository to your local server.
 
-2 - Open the Server.py file.
+2 - Open the Server.py file located in SalvandoAlimentos/services/
 
 3 - Run the file.
 
