@@ -1,7 +1,7 @@
 # PythonAPI-Sembrando
-API Python based
+API Rest Python based
 
-# To make it works:
+# To make it work:
 
 
 
